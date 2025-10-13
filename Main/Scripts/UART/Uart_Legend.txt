@@ -1,0 +1,8 @@
+victim_id_map = {
+    "red": 3,
+    "yellow": 4,
+    "green": 5,
+    "H": 6,
+    "s": 7, // I made a mistake in the dataset lable, so just use lowercase, idk why didn't I fix it
+    "U": 8
+}

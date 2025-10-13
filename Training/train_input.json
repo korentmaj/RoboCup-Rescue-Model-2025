@@ -1,0 +1,28 @@
+{
+    "classes": [
+        "H",
+        "U",
+        "s"
+    ],
+    "mode": "object-detection",
+    "printHWInfo": false,
+    "inputShapeString": "(48, 48, 1)",
+    "yType": "structured",
+    "trainTestSplit": 0.2,
+    "stratifiedTrainTest": false,
+    "convertInt8": true,
+    "profileInt8": true,
+    "skipEmbeddingsAndMemory": false,
+    "objectDetectionLastLayer": "fomo",
+    "objectDetectionAugmentation": true,
+    "syntiantTarget": false,
+    "maxTrainingTimeSeconds": 604800,
+    "remainingGpuComputeTimeSeconds": 90000,
+    "isEnterpriseProject": true,
+    "flattenDataset": true,
+    "akidaModel": false,
+    "akidaEdgeModel": false,
+    "skipMemoryProfiling": false,
+    "customValidationSplit": false,
+    "tensorboardLogging": false
+}

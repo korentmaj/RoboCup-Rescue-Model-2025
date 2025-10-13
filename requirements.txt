@@ -1,0 +1,10 @@
+numpy
+argparse
+scikit-image
+matplotlib
+Pillow
+tqdm
+opencv-python-headless
+tensorflow
+jupyterlab
+notebook

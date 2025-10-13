@@ -1,0 +1,5 @@
+4. 6. 2025 12:19
+[CYCLE] P2 HIGH - WHITE ON | interrupt
+[CYCLE] P3 HIGH - RED ON 
+[CYCLE] P4 HIGH - BLUE ON | output victim
+[CYCLE] P5 HIGH - GREEN ON | output victim

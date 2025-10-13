@@ -1,0 +1,20 @@
+import time
+from machine import Pin, LED
+
+green_led = LED("LED_GREEN")
+
+# ---------------- Pin P3 as Input ----------------
+p3_in = Pin('P3', Pin.IN, Pin.PULL_DOWN)
+time.sleep_ms(100)
+
+# Check input and control LED at startup
+while True:
+    state = p3_in.value()
+    print(f"Pin P3 state: {state}")  # Print the pin state
+
+    if state:
+        green_led.on()
+    else:
+        green_led.off()
+
+    time.sleep_ms(100)  # Delay to prevent excessive printing
