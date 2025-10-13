@@ -3,11 +3,11 @@
 
 Welcome to the RoboCup RM25 custom victim detection repository. This project is centered around a lightweight TinyML model designed for the **OpenMV H7** camera, capable of real-time **letter ('H', 'S', 'U')** and **color (red, yellow, green)** victim detection, as required by the RoboCup Rescue Maze 2025 competition.
 
-# <span style="color:red">RoboCup Competitors — Read This</span>
+# <span style="color:red">RoboCup Competitors : Read This</span>
 
 > <span style="color:red"><strong>Important:</strong></span><br>
 > This repo <strong>does not include</strong> the original dataset or model used on our OpenMV camera or robot.  
-> They were removed to <strong>keep the competition fair</strong> — you won’t find the model or data online.  
+> They were removed to <strong>keep the competition fair</strong>, you won’t find the model or data online.  
 >  
 > This is a <strong>public copy</strong> of our internal repo, cleaned for release.  
 > You still get our <strong>scripts, STM communication, and project logic</strong>,  
