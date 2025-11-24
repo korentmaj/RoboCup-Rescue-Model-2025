@@ -14,7 +14,7 @@ Welcome to the RoboCup RM25 custom victim detection repository. This project is 
 > and you can <strong>train your own model</strong> with the same tools we used.  
 >  
 > If you’re working on <strong>victim recognition</strong> and need a hint,  
-> <strong>contact <a href="mailto:sersteam@domain.com" style="color:red;">SERŠ Team</a></strong>.
+> <strong>contact <a href="mailto:ler@sers.si" style="color:red;">SERŠ Team</a></strong>.
 
 
 
